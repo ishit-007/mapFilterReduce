@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1673896373324" clover="3.2.0">
+  <project timestamp="1673896373324" name="All files">
+    <metrics statements="22" coveredstatements="22" conditionals="10" coveredconditionals="10" methods="7" coveredmethods="7" elements="39" coveredelements="39" complexity="0" loc="22" ncloc="22" packages="1" files="1" classes="1"/>
+    <file name="evenElementsFinder.js" path="/Users/ishit_singh/Desktop/mapFilterReduce/evenElementsFinder.js">
+      <metrics statements="22" coveredstatements="22" conditionals="10" coveredconditionals="10" methods="7" coveredmethods="7"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="5" type="stmt"/>
+      <line num="3" count="37" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="7" count="4" type="cond" truecount="2" falsecount="0"/>
+      <line num="8" count="2" type="stmt"/>
+      <line num="10" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="11" count="1" type="stmt"/>
+      <line num="13" count="9" type="stmt"/>
+      <line num="14" count="9" type="stmt"/>
+      <line num="16" count="1" type="stmt"/>
+      <line num="17" count="5" type="cond" truecount="2" falsecount="0"/>
+      <line num="18" count="2" type="stmt"/>
+      <line num="20" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="21" count="1" type="stmt"/>
+      <line num="23" count="2" type="stmt"/>
+      <line num="24" count="18" type="cond" truecount="2" falsecount="0"/>
+      <line num="25" count="8" type="stmt"/>
+      <line num="27" count="18" type="stmt"/>
+      <line num="29" count="2" type="stmt"/>
+      <line num="31" count="1" type="stmt"/>
+      <line num="32" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
