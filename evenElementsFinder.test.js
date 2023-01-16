@@ -1,5 +1,5 @@
 const {getEven,getEvenUsingReduce}=require('./evenElementsFinder');
-describe('',()=>{
+describe('get Even numbers',()=>{
     it('should throw TypeError when input is not an array',()=>{
         expect(()=>getEven(123)).toThrow(TypeError);
         expect(()=>getEven("abcd")).toThrow(TypeError);
