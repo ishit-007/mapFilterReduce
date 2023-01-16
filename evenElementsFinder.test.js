@@ -7,7 +7,6 @@ describe('',()=>{
     it('should throw TypeError when not all elements of array are numbers',()=>{
         expect(()=>getEven([1,2,3,4,'abx',8,9])).toThrow(TypeError);
     })
-
     it('should throw TypeError when input is not an array',()=>{
         expect(()=>getEvenUsingReduce(123)).toThrow(TypeError);
         expect(()=>getEvenUsingReduce("abcd")).toThrow(TypeError);
